@@ -113,6 +113,7 @@ class Dog extends Animal {
         System.out.println("Bark");
     }
     void fetch() {
+	    System.out.println("fetching")
     }
     int age = 3; 
 }

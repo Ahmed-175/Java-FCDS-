@@ -21,3 +21,4 @@ Throughout these notes, we will study the material using real quiz examples. Eac
 [[Inheritance and polymorphism]]
 [[Abstraction]]
 [[Interfaces]]
+[[Abstract Class vs Interface]]
