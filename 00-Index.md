@@ -17,5 +17,7 @@ Throughout these notes, we will study the material using real quiz examples. Eac
 [[Methods Overloading]]
 [[Access Modifiers]]
 [[Constructor]]
-[[Static Keyword]]
+[[Static]]
 [[Inheritance and polymorphism]]
+[[Abstraction]]
+[[Interfaces]]

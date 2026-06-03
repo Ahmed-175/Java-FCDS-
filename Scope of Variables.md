@@ -97,4 +97,4 @@ this is the best solution until now because you just make the `x` variable stati
 This variable `x` will exist only when the class is loaded into memory. It will be loaded only once, and the class and any object created from this class will use the same value.
 
 we will study the `static` keyword in Java very well in Lecture 7
-[[Static Keyword]]
+[[Static]]
